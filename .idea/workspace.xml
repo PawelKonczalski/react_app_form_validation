@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568911368564</updated>
-      <workItem from="1568911369669" duration="5989000" />
+      <workItem from="1568911369669" duration="6800000" />
     </task>
     <task id="LOCAL-00001" summary="form structure before validation">
       <created>1568914519560</created>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568915524472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add validation to form">
+      <created>1568917657276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568917657276</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="form structure before validation" />
     <MESSAGE value="add message if insert data is wrong" />
-    <option name="LAST_COMMIT_MESSAGE" value="add message if insert data is wrong" />
+    <MESSAGE value="add validation to form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add validation to form" />
   </component>
 </project>
